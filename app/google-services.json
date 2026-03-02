@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64966526915",
+    "project_id": "carcleaningapplication",
+    "storage_bucket": "carcleaningapplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64966526915:android:5947fdeb3703ed8c8fdf76",
+        "android_client_info": {
+          "package_name": "com.example.carcleaningapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgsg8jZG_FRMZT5ISdIYfeRkTugbvrsFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

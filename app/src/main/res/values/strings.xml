@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CarCleaningApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ongoing_appointments">Ongoing Appointments</string>
+    <string name="no_ongoing_appointments">You have no ongoing appointments</string>
+    <string name="order_history">Order History</string>
+    <string name="home">Home</string>
+    <string name="services">Services</string>
+    <string name="profile">Profile</string>
+    <string name="welcome_user">Welcome, %1$s</string>
+    <string name="welcome_default_user_name">User</string>
+    <string name="welcome_default_display">Welcome, User</string>
+    <string-array name="time_placeholder">
+        <item>Select Time Slot</item>
+    </string-array>
+    <string-array name="vehicle_placeholder">
+        <item>Select Vehicle</item>
+    </string-array>
+
+</resources>
